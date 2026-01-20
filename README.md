@@ -54,8 +54,6 @@ Click "Calculate Route" to compute and display the optimal path.
 
 View the route details in the results panel.
 
-📸 Screenshot
-(You can add a screenshot of the running application here)
 
 🚀 Future Enhancements
 Real-time bus tracking integration
