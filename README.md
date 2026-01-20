@@ -34,40 +34,46 @@ src/
 ├── com/jwetherell/algorithms/data_structures/
 │   ├── Graph.java             # Generic Graph implementation
 │   └── Path.java              # (Placeholder) Path representation
-⚙️ Technologies Used
-Java (JDK 8+)
 
-JavaFX (for UI)
+⚙️ Technologies Used:
 
-Graph Algorithms (BFS, Dijkstra)
+-Java (JDK 8+)
 
-Object-Oriented Design
+-JavaFX (for UI)
+
+-Graph Algorithms (BFS, Dijkstra)
+
+-Object-Oriented Design
 
 🎯 How It Works
-Launch the application to view the interactive map.
 
-Select From and To stations from dropdown menus.
+-Launch the application to view the interactive map.
 
-Choose a routing method: Least Stops or Shortest Distance.
+-Select From and To stations from dropdown menus.
 
-Click "Calculate Route" to compute and display the optimal path.
+-Choose a routing method: Least Stops or Shortest Distance.
 
-View the route details in the results panel.
+-Click "Calculate Route" to compute and display the optimal path.
+
+-View the route details in the results panel.
 
 
 🚀 Future Enhancements
-Real-time bus tracking integration
 
-Database persistence for stations and routes
+-Real-time bus tracking integration
 
-Map zoom/pan functionality
+-Database persistence for stations and routes
 
-Multi-route comparison
+-Map zoom/pan functionality
 
-Export routes to PDF/CSV
+-Multi-route comparison
+
+-Export routes to PDF/CSV
 
 📄 License
+
 This project is for educational purposes as part of a university assignment.
 
 👨‍💻 Author
+
 Developed as part of a CSC3A (Data Structures & Algorithms) project.
