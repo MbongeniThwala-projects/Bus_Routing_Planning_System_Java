@@ -2,9 +2,11 @@
 This is a JavaFX based Bus Route Planning System that allows users to find the shortest route between bus stations
 
 🚍 Bus Route Planning System
+
 A JavaFX GUI application for visualizing and calculating optimal bus routes between stations using graph algorithms. The system supports both least stops (unweighted BFS) and shortest distance (weighted Dijkstra-like) pathfinding methods.
 
 📌 Features
+
 Interactive GUI built with JavaFX for station selection and route visualization
 
 Graph-based routing using custom Graph, Vertex, and Edge data structures
@@ -22,6 +24,7 @@ Dynamic station selection via dropdown menus
 Route calculation and display in a text area
 
 🏗️ Project Structure
+
 text
 src/
 ├── csc3a/ui/
